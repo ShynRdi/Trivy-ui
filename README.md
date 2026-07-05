@@ -1,4 +1,5 @@
 # Trivy Docker Image Scanner UI
+![Trivy UI](https://raw.githubusercontent.com/zakery1369/pics/refs/heads/master/Trivy-UI.png)
 
 یک رابط کاربری ساده، زیبا و فارسی برای اسکن امنیتی Docker Imageها با استفاده از [Trivy](https://github.com/aquasecurity/trivy).
 
